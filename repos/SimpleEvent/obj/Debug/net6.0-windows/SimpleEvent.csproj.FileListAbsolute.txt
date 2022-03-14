@@ -1,0 +1,17 @@
+C:\Users\carla\source\repos\SimpleEvent\bin\Debug\net6.0-windows\SimpleEvent.exe
+C:\Users\carla\source\repos\SimpleEvent\bin\Debug\net6.0-windows\SimpleEvent.deps.json
+C:\Users\carla\source\repos\SimpleEvent\bin\Debug\net6.0-windows\SimpleEvent.runtimeconfig.json
+C:\Users\carla\source\repos\SimpleEvent\bin\Debug\net6.0-windows\SimpleEvent.dll
+C:\Users\carla\source\repos\SimpleEvent\bin\Debug\net6.0-windows\SimpleEvent.pdb
+C:\Users\carla\source\repos\SimpleEvent\obj\Debug\net6.0-windows\SimpleEvent.csproj.AssemblyReference.cache
+C:\Users\carla\source\repos\SimpleEvent\obj\Debug\net6.0-windows\SimpleEvent.SimpleEvent.resources
+C:\Users\carla\source\repos\SimpleEvent\obj\Debug\net6.0-windows\SimpleEvent.csproj.GenerateResource.cache
+C:\Users\carla\source\repos\SimpleEvent\obj\Debug\net6.0-windows\SimpleEvent.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carla\source\repos\SimpleEvent\obj\Debug\net6.0-windows\SimpleEvent.AssemblyInfoInputs.cache
+C:\Users\carla\source\repos\SimpleEvent\obj\Debug\net6.0-windows\SimpleEvent.AssemblyInfo.cs
+C:\Users\carla\source\repos\SimpleEvent\obj\Debug\net6.0-windows\SimpleEvent.csproj.CoreCompileInputs.cache
+C:\Users\carla\source\repos\SimpleEvent\obj\Debug\net6.0-windows\SimpleEvent.dll
+C:\Users\carla\source\repos\SimpleEvent\obj\Debug\net6.0-windows\refint\SimpleEvent.dll
+C:\Users\carla\source\repos\SimpleEvent\obj\Debug\net6.0-windows\SimpleEvent.pdb
+C:\Users\carla\source\repos\SimpleEvent\obj\Debug\net6.0-windows\SimpleEvent.genruntimeconfig.cache
+C:\Users\carla\source\repos\SimpleEvent\obj\Debug\net6.0-windows\ref\SimpleEvent.dll
